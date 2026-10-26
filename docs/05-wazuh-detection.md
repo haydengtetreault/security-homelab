@@ -2,7 +2,7 @@
 
 ## Deployment
 
-Wazuh 4.14.9 all-in-one (manager, indexer, dashboard) on an Ubuntu 26.04 LTS VM (Wazuh-01, hostname Wazuh-Server) at 10.0.10.3, 8 GB RAM `TODO(verify)`, fixed memory. Dashboard at `https://10.0.10.3`.
+Wazuh 4.14.9 all-in-one (manager, indexer, dashboard) on an Ubuntu 26.04 LTS VM (Wazuh-01, hostname Wazuh-Server) at 10.0.10.3, 8 GB RAM, fixed memory. Dashboard at `https://10.0.10.3`.
 
 ## Agents
 
