@@ -1,0 +1,7 @@
+# /etc/fail2ban/jail.local
+[sshd]
+enabled = true
+backend = systemd
+maxretry = 4
+findtime = 10m
+bantime = 1h
